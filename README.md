@@ -15,3 +15,7 @@ There shall be an algorithm that determines the optimal path for the claw to tak
 There shall be a series of motor driver ICs to offload the computation of driving each stepper motor from the microcontroller to a separate chip. 
 
 There shall be a PCB or breadboard that integrates the motor drivers, microcontroller, and sensor inputs to ensure proper operation.
+
+Bill of Materials:
+- https://www.digikey.com/en/products/detail/sparkfun-electronics/ROB-12779/5318750
+- https://www.amazon.com/STEPPERONLINE-Pancake-Stepper-Bipolar-Extruder/dp/B0B93HTR87/ref=sr_1_5?dib=eyJ2IjoiMSJ9.hN-9QQUUabt-Xybqh_2hebgriL6Zzkv_V1gXn0FD0FwS7fR9O_f-G0o3gRZWOE1AL6bmydGmJAWXUmSaQWetZJcuDC3ChmM5a0kWTG5J3W3T6OjF_6miJqOTtp4FTtQHugpGS916vktJZ-N0BwQwsyEVhsoW7UvSuApCrmtSGr2x2XP2IrhQojPBGSFqSljTRcVOWGTRwqQ9Z0UZircDr_3WHQZtApGGG9pKvGEntBM.N5PIQQnK0bKrHVDN0UR9i0Z0-S4Nwk-JPPHxXFGHKBQ&dib_tag=se&hvadid=631491241650&hvdev=c&hvlocphy=9216518&hvnetw=g&hvqmt=e&hvrand=13298237334718594531&hvtargid=kwd-362257952102&hydadcr=7473_13294095&keywords=amazon%2Bstepper%2Bmotor&qid=1734376079&sr=8-5&th=1
