@@ -1,0 +1,5 @@
+- CSV to STM32 through ST Link. 
+- GPIO pins to stepper motor driver, driver to stepper motor. 
+- Optimization of arm path
+- Design multimeter that quickly measures capacitance, resistance and inductance.  
+- 
